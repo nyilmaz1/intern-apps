@@ -1,0 +1,16 @@
+Dataset includes crimes in the City of Los Angeles from 2010 to March 20, 2018. 
+With my analysis, I answered the following questions:
+
+1.	In which day of the week was crime reported the most?
+2.	In which time group (time grouped in 4 hour intervals) has crime been occurred the most?
+3.	In which area ID has crime been reported the most?
+4.	What kind of crime occurred the most?
+5.	What is the victim age average and which age group is victimized the most?
+6.	Which gender is victimized the most?
+7.	Which descent is victimized the most?
+8.	What type of structure, vehicle, or location did the crime take place?
+9.	Which weapon is used the most?
+10.	What are the top 3 locations in crime?
+
+To see my codes please click on the Jupyter file. I also wrote a report based on the plots in the notebook.
+To see the report please click on the pdf file provided in this repository
